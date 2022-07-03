@@ -2,6 +2,7 @@ h2{color: blue;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 background-color: brown;
 width: 50%;}
-p{border: 10px solid yellow;
-border-radius: 30px;}
+p{border: 8px solid rgb(250, 12, 83);
+border-radius: 10px;
+padding: 20px;}
 h4{color: coral;}
